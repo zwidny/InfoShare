@@ -15,9 +15,9 @@ Intro
 Contribute
 ====================
 
-  + Issue Tracker:
+  + Issue Tracker: https://github.com/zwidny/InfoShare/issues
 
-  + Source Code: 
+  + Source Code: https://github.com/zwidny/InfoShare/tree/master
 
 
 Support
